@@ -1,5 +1,4 @@
-![](https://images.unsplash.com/photo-1462887333300-5fe5403fd2f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80)
-Photo by Tomasz Rynkiewicz- https://unsplash.com/photos/_Mn4i8nG1K0
+![](https://media-exp1.licdn.com/dms/image/C4D16AQGAj_NlPJxhFg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=EZJzAcY4p_vfGzznJXyDZbLQl7ed-3L1LBiUCUwmvoE)
 
 # Daniel Deutsch
 
