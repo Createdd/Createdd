@@ -3,10 +3,11 @@
 # Daniel Deutsch
 
 ## About
-Daniel is a software developer and lawyer.
-His knowledge and interests evolve around business law and programming machine learning applications.
-To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
-Don't hesitate to get in touch if you have ideas, projects or problems.
+Daniel is an entrepreneur, software developer and lawyer. He has worked at various IT companies, tax advisory, management consulting and at the Austrian court. 
+
+His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
+
+Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 ## Knowledge
