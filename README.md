@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGAj_NlPJxhFg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=EZJzAcY4p_vfGzznJXyDZbLQl7ed-3L1LBiUCUwmvoE)
+![](https://media-exp1.licdn.com/dms/image/C4E16AQH3b3WOuLxXyA/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=76O-rTpf7DYI8QQlmhU_rWIN6fhAUIh-QlVF5az1gUM)
 
 # Daniel Deutsch
 
