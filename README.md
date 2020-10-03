@@ -3,7 +3,7 @@
 # Daniel Deutsch
 
 ## About
-Daniel is an entrepreneur, software developer and lawyer. He has worked at various IT companies, tax advisory, management consulting and at the Austrian court. 
+Daniel is an entrepreneur, software developer and business law graduate. He has worked at various IT companies, tax advisory, management consulting and at the Austrian court. 
 
 His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
 
