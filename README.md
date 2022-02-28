@@ -54,19 +54,6 @@ I worked with
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-
-<h4 align="center">
-  <a href="https://github.com/Createdd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
-
-----
-
-![](https://media-exp1.licdn.com/dms/image/C4E16AQH3b3WOuLxXyA/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=76O-rTpf7DYI8QQlmhU_rWIN6fhAUIh-QlVF5az1gUM)
-
 
 
 
